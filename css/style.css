@@ -1,0 +1,25 @@
+.panda-card{
+    border: none;
+}
+.panda-card-footer{
+    background-color: white;
+    border: none;
+}
+.subscribe, .slider{
+    background-color: #FCEAE8;
+    border-radius: 10px;
+}
+.btn-subscribe{
+    display: block;
+}
+.button{
+    background-color:#FF267C !important;
+    color: white;
+    padding: 5px 15px;
+}
+.subscribe{
+    height: 350px;
+}
+.categories img{
+    width: 100px;
+}
